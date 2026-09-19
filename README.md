@@ -4,7 +4,7 @@ Homebrew formulas for Atheory tools.
 
 ## Install Argent
 
-Argent will be available from this tap when its first release is published.
+Once an Argent release is available:
 
 ```sh
 brew tap atheory-ai/tap
