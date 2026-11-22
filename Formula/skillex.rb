@@ -1,28 +1,28 @@
 class Skillex < Formula
   desc "Skill management for AI agents"
   homepage "https://github.com/atheory-ai/skillex"
-  version "0.14.0"
+  version "0.15.0"
   license "Apache-2.0"
 
   on_macos do
     on_intel do
-      url "https://github.com/atheory-ai/skillex/releases/download/v0.14.0/skillex_0.14.0_darwin_amd64.tar.gz"
-      sha256 "499da3941cb16ed6ee6bd9922e3b84860211516c198e5e53ee5512665a380f1b"
+      url "https://github.com/atheory-ai/skillex/releases/download/v0.15.0/skillex_0.15.0_darwin_amd64.tar.gz"
+      sha256 "f5415c2400cfc38d5061d213788a8c038c32cabef06f6b58da449611952b5d8d"
     end
     on_arm do
-      url "https://github.com/atheory-ai/skillex/releases/download/v0.14.0/skillex_0.14.0_darwin_arm64.tar.gz"
-      sha256 "548bb51edc36194d7795ad9a3497d988498097d3373cfa68eff015b0b28c4c17"
+      url "https://github.com/atheory-ai/skillex/releases/download/v0.15.0/skillex_0.15.0_darwin_arm64.tar.gz"
+      sha256 "5e2c93ae8600c0fd0ae2cb64a5ab44580a302f88e93b2de0bc3e2c089b4ca885"
     end
   end
 
   on_linux do
     on_intel do
-      url "https://github.com/atheory-ai/skillex/releases/download/v0.14.0/skillex_0.14.0_linux_amd64.tar.gz"
-      sha256 "f1483b66628738783975ea9b1ac360321e40fe37bc75cb578c5bb372a39abce5"
+      url "https://github.com/atheory-ai/skillex/releases/download/v0.15.0/skillex_0.15.0_linux_amd64.tar.gz"
+      sha256 "e3a99afcd65d093a64a9d47857a0879f59412ff6144ba113023f62678fc4eb86"
     end
     on_arm do
-      url "https://github.com/atheory-ai/skillex/releases/download/v0.14.0/skillex_0.14.0_linux_arm64.tar.gz"
-      sha256 "9ac34c8df0baaffe2ccf5cd2fa7ead896c2d83d42da8d000683c690ad84e3911"
+      url "https://github.com/atheory-ai/skillex/releases/download/v0.15.0/skillex_0.15.0_linux_arm64.tar.gz"
+      sha256 "1c054eb58fc8af397ced8055c38e76d87ff0f6dc51f5eff0dd93709c83902ec3"
     end
   end
 
